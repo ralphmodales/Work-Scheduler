@@ -4,11 +4,12 @@
 #include <string>
 #include <vector>
 
-struct Worker{
-                int id;
-                        std::string name;
-                                std::vector<std::vector<int>> availability;
-                                        std::vector<std::string> knowledge;
+struct Worker
+{
+        int id;
+        std::string name;
+        std::vector<std::vector<int>> availability;
+        std::vector<std::string> knowledge;
 };
 
 #endif
