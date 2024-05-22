@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "John Doe",
+        "availability": [8, 16],
+        "knowledge": ["Frying Chicken", "Cash Register"]
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "availability": [12, 20],
+        "knowledge": ["Customer Service", "Drive-thru Operations"]
+    },
+    {
+        "id": 3,
+        "name": "Alice Johnson",
+        "availability": [9, 17],
+        "knowledge": ["Food Preparation", "Cleaning and Sanitization"]
+    },
+    {
+        "id": 4,
+        "name": "Mark Johnson",
+        "availability": [16, 24],
+        "knowledge": ["Food Safety Standards", "Order Taking"]
+    },
+    {
+        "id": 5,
+        "name": "Sarah Lee",
+        "availability": [10, 18],
+        "knowledge": ["Inventory Management", "Cash Handling"]
+    },
+    {
+        "id": 6,
+        "name": "Michael Brown",
+        "availability": [6, 14],
+        "knowledge": ["Cooking Techniques", "Stock Replenishment"]
+    },
+    {
+        "id": 7,
+        "name": "Emily Garcia",
+        "availability": [14, 22],
+        "knowledge": ["Cleaning Equipment", "Customer Interaction"]
+    },
+    {
+        "id": 8,
+        "name": "David Wang",
+        "availability": [8, 20],
+        "knowledge": ["Menu Knowledge", "Upselling"]
+    },
+    {
+        "id": 9,
+        "name": "Linda Chen",
+        "availability": [13, 21],
+        "knowledge": ["Food Safety", "Team Management"]
+    },
+    {
+        "id": 10,
+        "name": "Brian Wilson",
+        "availability": [11, 19],
+        "knowledge": ["Shift Management", "Quality Control"]
+    }
+]
