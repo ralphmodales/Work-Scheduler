@@ -1,62 +1,132 @@
 [
     {
         "id": 1,
-        "name": "John Doe",
-        "availability": [8, 16],
-        "knowledge": ["Frying Chicken", "Cash Register"]
+        "name": "Alice",
+        "availability": [
+            [8, 12],
+            [13, 17],
+            [18, 22]
+        ],
+        "knowledge": [
+            "Cashier",
+            "Customer Service"
+        ]
     },
     {
         "id": 2,
-        "name": "Jane Smith",
-        "availability": [12, 20],
-        "knowledge": ["Customer Service", "Drive-thru Operations"]
+        "name": "Bob",
+        "availability": [
+            [9, 13],
+            [14, 18],
+            [19, 23]
+        ],
+        "knowledge": [
+            "Stocking",
+            "Cleaning"
+        ]
     },
     {
         "id": 3,
-        "name": "Alice Johnson",
-        "availability": [9, 17],
-        "knowledge": ["Food Preparation", "Cleaning and Sanitization"]
+        "name": "Charlie",
+        "availability": [
+            [7, 11],
+            [12, 16],
+            [17, 21]
+        ],
+        "knowledge": [
+            "Sales",
+            "Inventory Management"
+        ]
     },
     {
         "id": 4,
-        "name": "Mark Johnson",
-        "availability": [16, 24],
-        "knowledge": ["Food Safety Standards", "Order Taking"]
+        "name": "David",
+        "availability": [
+            [10, 14],
+            [15, 19],
+            [20, 24]
+        ],
+        "knowledge": [
+            "Security",
+            "Merchandising"
+        ]
     },
     {
         "id": 5,
-        "name": "Sarah Lee",
-        "availability": [10, 18],
-        "knowledge": ["Inventory Management", "Cash Handling"]
+        "name": "Eve",
+        "availability": [
+            [8, 12],
+            [13, 17],
+            [18, 22]
+        ],
+        "knowledge": [
+            "Cashier",
+            "Customer Service"
+        ]
     },
     {
         "id": 6,
-        "name": "Michael Brown",
-        "availability": [6, 14],
-        "knowledge": ["Cooking Techniques", "Stock Replenishment"]
+        "name": "Frank",
+        "availability": [
+            [9, 13],
+            [14, 18],
+            [19, 23]
+        ],
+        "knowledge": [
+            "Stocking",
+            "Cleaning"
+        ]
     },
     {
         "id": 7,
-        "name": "Emily Garcia",
-        "availability": [14, 22],
-        "knowledge": ["Cleaning Equipment", "Customer Interaction"]
+        "name": "Grace",
+        "availability": [
+            [7, 11],
+            [12, 16],
+            [17, 21]
+        ],
+        "knowledge": [
+            "Sales",
+            "Inventory Management"
+        ]
     },
     {
         "id": 8,
-        "name": "David Wang",
-        "availability": [8, 20],
-        "knowledge": ["Menu Knowledge", "Upselling"]
+        "name": "Hannah",
+        "availability": [
+            [10, 14],
+            [15, 19],
+            [20, 24]
+        ],
+        "knowledge": [
+            "Security",
+            "Merchandising"
+        ]
     },
     {
         "id": 9,
-        "name": "Linda Chen",
-        "availability": [13, 21],
-        "knowledge": ["Food Safety", "Team Management"]
+        "name": "Isaac",
+        "availability": [
+            [8, 12],
+            [13, 17],
+            [18, 22]
+        ],
+        "knowledge": [
+            "Cashier",
+            "Customer Service"
+        ]
     },
     {
         "id": 10,
-        "name": "Brian Wilson",
-        "availability": [11, 19],
-        "knowledge": ["Shift Management", "Quality Control"]
+        "name": "Jack",
+        "availability": [
+            [9, 13],
+            [14, 18],
+            [19, 23]
+        ],
+        "knowledge": [
+            "Stocking",
+            "Cleaning"
+        ]
     }
 ]
